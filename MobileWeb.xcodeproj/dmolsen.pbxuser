@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MobileWebAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 350}}";
+			sepNavSelRange = "{566, 0}";
+			sepNavVisRange = "{87, 487}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MobileWebAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {594, 490}}";
+			sepNavSelRange = "{500, 0}";
+			sepNavVisRange = "{190, 463}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MobileWeb */ = {
+		activeExec = 0;
+		executables = (
+			553FE20F108569D800F6B8A8 /* MobileWeb */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MobileWebViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 251}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MobileWebViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 924}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{566, 489}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 553FE20F108569D800F6B8A8 /* MobileWeb */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MobileWeb */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MobileWeb */,
+		);
+		codeSenseManager = 553FE216108569E000F6B8A8 /* Code sense */;
+		executables = (
+			553FE20F108569D800F6B8A8 /* MobileWeb */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					231,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 278389903;
+			PBXWorkspaceStateSaveDate = 278389903;
+		};
+		perUserProjectItems = {
+			5577F1D71097E4A700C7A08F /* PlistBookmark */ = 5577F1D71097E4A700C7A08F /* PlistBookmark */;
+			55DAA1F6108585D2006C8C63 = 55DAA1F6108585D2006C8C63 /* PBXTextBookmark */;
+			55DAA1F7108585D2006C8C63 = 55DAA1F7108585D2006C8C63 /* PBXTextBookmark */;
+			55DAA1F8108585D2006C8C63 = 55DAA1F8108585D2006C8C63 /* PlistBookmark */;
+			55DAA1F9108585D2006C8C63 = 55DAA1F9108585D2006C8C63 /* PBXTextBookmark */;
+			55DAA1FA108585D2006C8C63 = 55DAA1FA108585D2006C8C63 /* PBXTextBookmark */;
+			55DAA1FB108585D2006C8C63 = 55DAA1FB108585D2006C8C63 /* PlistBookmark */;
+		};
+		sourceControlManager = 553FE215108569E000F6B8A8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MobileWeb_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {552, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	553FE20F108569D800F6B8A8 /* MobileWeb */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MobileWeb;
+		sourceDirectories = (
+		);
+	};
+	553FE215108569E000F6B8A8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	553FE216108569E000F6B8A8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5577F1D71097E4A700C7A08F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MobileWeb-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/dmolsen/Sites/Mobile-Web-iPhone-Wrapper/MobileWeb-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	55DAA1F6108585D2006C8C63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MobileWebAppDelegate.h */;
+		name = "MobileWebAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 566;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 87;
+	};
+	55DAA1F7108585D2006C8C63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MobileWeb_Prefix.pch */;
+		name = "MobileWeb_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	55DAA1F8108585D2006C8C63 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MobileWeb-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/dmolsen/Documents/MobileWeb/MobileWeb-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	55DAA1F9108585D2006C8C63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MobileWebAppDelegate.h */;
+		name = "MobileWebAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 566;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 87;
+	};
+	55DAA1FA108585D2006C8C63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MobileWeb_Prefix.pch */;
+		name = "MobileWeb_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	55DAA1FB108585D2006C8C63 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MobileWeb-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/dmolsen/Documents/MobileWeb/MobileWeb-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}

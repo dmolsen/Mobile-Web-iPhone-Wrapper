@@ -1,0 +1,18 @@
+You need to have the iPhone SDK installed which means you can only run
+this on an Intel-based Mac. To get an idea of the final product check 
+out the example on Flickr: http://www.flickr.com/photos/dmolsen/4010595318/
+
+Once you have that and you've grabbed a copy of the files (have no idea if
+this project will work on other people's machines) do the following:
+
+1. Open the project in XCode
+2. Open the MobileWebAppDelegate.m file
+3. Edit line #20 where it has http://m.wvu.edu to reflect your hostname
+4. Click 'Build & Go'
+
+Up should pop the iPhone Simulator with a generic logo, generic start-up screen,
+a bit of white (a bug but normal) and then your site.
+
+Again, this is a proof-of-concept and obviously isn't finished. Just an
+interesting way to leverage your existing site while making it an iPhone app
+for the iTunes App Store.
